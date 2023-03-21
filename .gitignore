@@ -1,0 +1,6 @@
+venv
+.idea
+*.log
+*.pyc
+*.sql
+.ipynb_checkpoints
